@@ -4,7 +4,7 @@ Sergei is a motherboard that when paired with a [Sechzig](https://github.com/mac
 
 ![Sergei](https://github.com/machdyne/sergei/blob/a9406f5da3839a59a756816429b2a4d7d1a4cc81/sergei.png)
 
-This repo contains schematics, PCB layouts, pinouts and documentation.
+This repo contains schematics, PCB layouts, pinouts, documentation and a 3D-printable case.
 
 Find more information on the [Sergei product page](https://machdyne.com/product/sergei-motherboard/).
 
