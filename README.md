@@ -2,6 +2,8 @@
 
 Sergei is a motherboard that when paired with a [Sechzig](https://github.com/machdyne/sechzig) compute module can function as a computer.
 
+![Sergei](https://github.com/machdyne/sergei/blob/a9406f5da3839a59a756816429b2a4d7d1a4cc81/sergei.png)
+
 This repo contains schematics, PCB layouts, pinouts and documentation.
 
 Find more information on the [Sergei product page](https://machdyne.com/product/sergei-motherboard/).
