@@ -59,7 +59,7 @@ See the [DDMI repo](https://github.com/machdyne/ddmi) for details.
 
 | Revision | Stackup | Notes |
 | -------- | ------- | ----- |
-| V0 | JLC04161H-3313 | Initial prototype |
+| V0 | JLC04161H-3313 | Initial production version |
 
 ## License
 
