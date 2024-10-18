@@ -124,11 +124,11 @@ module ld5_case_top() {
 			
 				// usb host
 				translate([45,76.5-(15/2),0])
-					cube([10,15,16.25]);
+					cube([10,15,16.5]);
 
 				// usb-c
 				translate([45,95-(9.5/2),0])
-					cube([10,9.5,3.25]);
+					cube([10,9.5,3.5]);
 
 				// pmod
 				translate([29.35-(16/2),-5,0])
@@ -137,7 +137,7 @@ module ld5_case_top() {
 
 				// boot button
 				translate([15.2-(7.5/2),105,0])
-					cube([7.5,10,7.5]);
+					cube([7.5,10,7.6]);
 
 				// sd card
 				translate([31.5-(15/2),105,0])
